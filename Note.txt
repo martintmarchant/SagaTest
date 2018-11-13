@@ -1,0 +1,24 @@
+
+NOTES
+
+sorry for the delay in getting this back, we are currently in the middle of moving house, and everything
+is slightly up in the air.
+
+Please note, I still have a few unit tests to finish.. however I wanted to get this accross asap
+There is a Swagger frontend for testing, (I'd normally do documentation on something like Confluance for the API)
+
+unfortunately the PC i've used for this test, did not enable me to run Visual studio as admin, this 
+prevented me from using/testing Service Fabric, however, as I'm sure your aware, this this is really
+just a wrapper (offering many advantages, and could easily be added later).
+
+other things todo: Security... Currently this has not been implemented - mainly due to time presures.
+hopefully theres enough here to gauge my thought processes?
+
+Happy to discuss further at interview?
+
+
+Kind Regards
+
+
+
+Martin Marchant

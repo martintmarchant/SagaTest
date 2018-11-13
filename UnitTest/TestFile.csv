@@ -1,0 +1,4 @@
+﻿TransactionNumber,NumberOfPassengers,Domain,AgentId,ReferrerUrl,CreatedDateTime,UserId,SelectedCurrency,ReservationSystem
+0002b3be-4f0b-418a-b7dd-670494981a89,,1,,,08/08/2016 00:00,TestUser,GBP,Taurus
+0003af0c-24a5-4948-81e4-5f19abf2f565,,1,,,21/10/2016 00:00,TestUser,GBP,Taurus
+000840f3-e60c-4359-9ad5-b5de77c801c4,,10,,https://dev.titantravel.test/destinations/north-america/usa/california/california-and-the-golden-west,04/07/2018 00:00,TestUser,GBP,Taurus

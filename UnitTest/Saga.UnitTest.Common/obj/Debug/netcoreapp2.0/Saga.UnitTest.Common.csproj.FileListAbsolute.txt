@@ -1,0 +1,16 @@
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\bin\Debug\netcoreapp2.0\Saga.UnitTest.Common.deps.json
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\bin\Debug\netcoreapp2.0\Saga.UnitTest.Common.runtimeconfig.json
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\bin\Debug\netcoreapp2.0\Saga.UnitTest.Common.runtimeconfig.dev.json
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\bin\Debug\netcoreapp2.0\Saga.UnitTest.Common.dll
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\bin\Debug\netcoreapp2.0\Saga.UnitTest.Common.pdb
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\obj\Debug\netcoreapp2.0\Saga.UnitTest.Common.csprojResolveAssemblyReference.cache
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\obj\Debug\netcoreapp2.0\Saga.UnitTest.Common.csproj.CoreCompileInputs.cache
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\obj\Debug\netcoreapp2.0\Saga.UnitTest.Common.AssemblyInfoInputs.cache
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\obj\Debug\netcoreapp2.0\Saga.UnitTest.Common.AssemblyInfo.cs
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\obj\Debug\netcoreapp2.0\Saga.UnitTest.Common.dll
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\obj\Debug\netcoreapp2.0\Saga.UnitTest.Common.pdb
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\bin\Debug\netcoreapp2.0\Saga.Common.dll
+C:\Test\Saga.Api.Transactions\UnitTest\Saga.UnitTest.Common\bin\Debug\netcoreapp2.0\Saga.Common.pdb
