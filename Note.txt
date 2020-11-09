@@ -1,29 +1,14 @@
 
 NOTES
 
-sorry for the delay in getting this back, we are currently in the middle of moving house, and everything
-is slightly up in the air.
+this was a coding exercise I did for Saga acouple of years ago,
+it was already on my GibHub so I thought you could browse it.
 
-Please note, I still have a few unit tests to finish.. however I wanted to get this accross asap
-
-please ensure the path in the appsettings.json file links to the location of the baskets.csv file
-otherwise you are likely to get somekind of error when running the code!
-
-There is a Swagger frontend, so testing is easy, (I'd normally do documentation too using something like Confluance for the API)
-
-unfortunately the PC i've used for this test, did not enable me to run Visual studio as admin, this 
-prevented me from using/testing Service Fabric, however, as I'm sure your aware, this this is really
-just a wrapper (offering many advantages, and could easily be added later).
-
-other things todo: Security... Currently this has not been implemented - mainly due to time presures.
-also, I'd normally have some bespoke error handling middleware, which seemed out-of-scope for the test. 
-hopefully theres enough here to gauge my thought processes?
-
-Happy to discuss all, further maybe at interview?
+I was offered the role although it was after Id accepted a position elsewhere.
 
 
-Kind Regards
+Regards
 
 
 
-Martin Marchant
+Martin
